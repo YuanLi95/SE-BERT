@@ -1,0 +1,28 @@
+max_test_acc_avg: 0.8502976190476191, max_test_f1_avg: 0.7831933762727887
+
+max_test_acc_avg: 0.8505952380952381, max_test_f1_avg: 0.7891255646287968
+
+max_test_acc_avg: 0.8520833333333333, max_test_f1_avg: 0.7926474671914744
+
+max_test_acc_avg: 0.856547619047619, max_test_f1_avg: 0.7928047297519843
+
+max_test_acc_avg: 0.8538690476190477, max_test_f1_avg: 0.7903382187893991
+
+max_test_acc_avg: 0.8526785714285715, max_test_f1_avg: 0.7922881160910773
+
+max_test_acc_avg: 0.8535714285714286, max_test_f1_avg: 0.7869234706363901
+
+max_test_acc_avg: 0.8517857142857143, max_test_f1_avg: 0.7869851645787107
+
+max_test_acc_avg: 0.8532738095238095, max_test_f1_avg: 0.7916734762191434
+
+max_test_acc_avg: 0.8538690476190475, max_test_f1_avg: 0.7857161292304168
+
+max_test_acc_avg: 0.85, max_test_f1_avg: 0.786251892009212
+
+max_test_acc_avg: 0.856547619047619, max_test_f1_avg: 0.7935747678098427
+
+max_test_acc_avg: 0.8529761904761904, max_test_f1_avg: 0.7881450293487126
+
+max_test_acc_avg: 0.8514880952380951, max_test_f1_avg: 0.7819705682919724
+
